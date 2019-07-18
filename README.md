@@ -27,10 +27,10 @@ self-implement of disease centered Medical graph from zero to full and sever as 
 ![image](https://github.com/liuhuanyong/QABasedOnMedicalKnowledgeGraph/blob/master/img/kg_route.png)
 
 # 1.2 脚本目录
-prepare_data/datasoider.py：网络资讯采集脚本  
-prepare_data/datasoider.py：网络资讯采集脚本  
-prepare_data/max_cut.py：基于词典的最大向前/向后切分脚本  
-build_medicalgraph.py：知识图谱入库脚本    　　
+
+- prepare_data/data_spider.py：网络资讯采集脚本  
+- prepare_data/max_cut.py：基于词典的最大向前/向后切分脚本  
+- build_medicalgraph.py：知识图谱入库脚本    　　
 
 # 1.3 医药领域知识图谱规模
 1.3.1 neo4j图数据库存储规模
